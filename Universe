@@ -2,3 +2,4 @@ Nothing but me
 Heavens and Earth. Earth is empty btw
 E = hc/λ
 E(t) = (sin((t/12)*PI-2)+1)/2
+P: {"P0":101.325, "g":9.807, "M": 0.02896, "T": 288.15, "R": 8.3143}
